@@ -242,5 +242,3 @@ To set up this project:
 2. Set up a MySQL database.
 3. Run the provided SQL scripts to create tables and insert data.
 4. Execute the queries to explore and analyze the data.
-
-## THE END   
